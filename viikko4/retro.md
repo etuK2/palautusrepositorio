@@ -1,5 +1,3 @@
 Start, Stop, Continue, More of, Less of Wheel on noin 10-25 minuutin pituinen tapaaminen missä kerätään palautetta tiimin toiminnasta. Palautetta annetaan viiden aluuen perusteella, mitä pitäisi aloittaa, lopettaa, jatkaa, tehdä enemmän tai vähemmän. Tiimin jäsenet kirjoittavat kommentteja, jotka kirjataan näkyville keskustelua ja jatkotoimia varten.
 
 Glad, Sad, Mad keskittyy sprintin tapahtumien tunteisiin perustuvaan arviointiin. Tämä kestää yleensä noin 60 minuuttia. Tiimiläiset listaavat havainnot, jotka jaotellaan iloisiksi (Glad), surullisiksi (Sad) ja vihaisiksi/turhautuneiksi (Mad). Tämän jäjkeen äänestetään jonka perusteella valitaan tärkeimmät aiheet, joita käsitellään syvemmin ratkaisuja etsien.
-
-muutos
